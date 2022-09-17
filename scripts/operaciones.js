@@ -53,5 +53,5 @@ let w=4, z=12;
 const sumap= w+z;
 console.log(sumap);
 
-const raiz= sumap/w;
+const raiz= sumap**0.5;
 console.log("La Raiz cuadrada es "+raiz);
