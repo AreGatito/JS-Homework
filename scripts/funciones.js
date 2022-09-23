@@ -1,4 +1,4 @@
-//Saludo por funció
+//Saludo por función
 const saludo =(name,age) =>{
     console.log(`Hola mi nombre es ${name} y tengo ${age} años`);
 }
